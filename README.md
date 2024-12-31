@@ -201,6 +201,17 @@ sem_destroy(&empty);
 ![alt text](images/image-17.png)
 <center>Fig 6. 主函數程式碼截圖</center>
 
+# Command
+## Basic
+```bash
+gcc hw4_4111056002_basic.c -o hw4_1
+./hw4_1
+```
+## Advanced
+```bash
+gcc hw4_4111056002_advanced.c -o hw4_2
+./hw4_2
+```
 # 輸出
 ## Basic
 ![alt text](basic_output.png)
